@@ -1,11 +1,15 @@
 treinajs - Treinamento Javascript. 
-=======
+=================================
 
 
-
-* Tools
+Editor de texto
+----------------
+ <ol>
+<li>Atom - <https://atom.io></li>
+<li>Sublime - <http://www.sublimetext.com></li>
+<li>Parish</li>
+</ol>
+ 
   
-  Atom - https://atom.io/ 
   
-  Sublime - http://www.sublimetext.com/
 
